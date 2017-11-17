@@ -1,0 +1,31 @@
+{
+  "name": "forkme",
+  "version": "2.0.0",
+  "description": "Spawn a process without a module",
+  "main": "index.js",
+  "author": "Louis Sandoval <louis@sandoval.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "mocha"
+  },
+  "keywords": [
+    "fork",
+    "spawn",
+    "child",
+    "thread",
+    "process",
+    "closure",
+    "callback",
+    "anonymous",
+    "function"
+  ],
+  "dependencies": {
+    "caller-path": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "repository": "git@github.com:lousando/forkme.git"
+}
