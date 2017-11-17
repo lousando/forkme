@@ -1,6 +1,6 @@
 {
   "name": "forkme",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Spawn a process without a module",
   "main": "index.js",
   "author": "Louis Sandoval <louis@sandoval.com>",
