@@ -1,5 +1,7 @@
 # forkme
 
+[![Travis branch](https://img.shields.io/travis/lousando/forkme/master.svg?style=for-the-badge)](https://github.com/lousando/forkme)
+
 Spawn a process without a module
 
 _(does NOT write any temporary files)_
